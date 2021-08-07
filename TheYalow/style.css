@@ -346,6 +346,7 @@
     .section1 {
         display: flex;
         border: 5px solid white;
+        height: 123px;
     }
     .box1 {
         background-color: #EC9E03;
